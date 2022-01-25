@@ -1,5 +1,7 @@
 ## 5. Longest Palindromic Substring (Medium 15510 904)
 
+![Alt text](./longest-palindrome-substring.jpg?raw=true 'decision')
+
 Given a string s, return the longest palindromic substring in s.
 
 Example 1:
