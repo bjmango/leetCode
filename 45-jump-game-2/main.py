@@ -16,6 +16,8 @@ class Solution:
 
 
 sln = Solution()
-# assert sln.jump([2, 3, 1, 1, 4]) == 2
-print(sln.jump([2, 3, 1, 1, 4]))
-# assert sln.jump([3, 2, 1]) == 1
+assert sln.jump([2, 3, 1, 1, 4]) == 2
+assert sln.jump([2, 3, 1, 1, 4]) == 2
+assert sln.jump([3, 3, 0, 1, 4]) == 2
+assert sln.jump([3, 1, 1, 4]) == 1
+assert sln.jump([1, 1, 1, 1]) == 3
